@@ -1,5 +1,6 @@
 <template>
-  <div class="eisenhower-visualisation-container">
+  <div class="eisenhower-visualisation-quadrant">
+    I am a quadrant
   </div>
 </template>
 
@@ -11,6 +12,5 @@ export default {
 }
 </script>
 
-<!-- No style : a container is only here to manage data fetch and components alimentation -->
 <style>
 </style>
